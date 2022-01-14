@@ -1,2 +1,3 @@
-Este archivo contiene las notas de las unidades de estudio a seguir para el curso de Code Yourself! de Coursera: 
-- Este es el link del curso: https://www.coursera.org/learn/intro-programming/home/welcome 
+Este es el link del curso: https://www.coursera.org/learn/intro-programming/home/welcome 
+En cada carpeta habrán distintos archivos de notas conforme avancemos las clases...
+Para inquietudes y sugerencias contactar a laura@huitzisolutions.io o por el canal de poc-modelo-educativo de Slack
