@@ -2,10 +2,10 @@
 
 Code Yourself! de Coursera es un programa de 5 semanas de clases. Se realiza 1 quiz por semana (5 en total). Además, se realizarán 2 proyectos (en la semana 3 y semana 5). El curso consta de lecturas, vídeos, foros de discusión y cuenta con material seleccionado.
 
-    **Pensamiento computacional:** en qué pensar antes de programar.
+**Pensamiento computacional:** en qué pensar antes de programar.
     **Algoritmos y secuencias:** decisiones y repeticiones, hace parte del proceso ordenado.
     **Representación de algoritmos:** siempre hay más de un algortimo para solucionar un problema. 
-        Los algoritmos pueden representarse por diagramas de flujos.
+    Los algoritmos pueden representarse por diagramas de flujos.
     **Precisión y suposiciones:** los algoritmos siempre necesitan precisión, si no pueden fallar.
 **Scratch:** Lenguaje de programación.
 
