@@ -15,10 +15,25 @@ Las personas en el código dan indicaciones pero no pueden ver como estas se eje
     Serie de instrucciones sin importar las condiciones.
         Se entiende que las condicionales son parte natural de las instrucciones.
 
-**Scratch:** Lenguaje de programación.
+**Scratch:** Lenguaje de programación que sigue una secuencia de lógica.
 
 **En Scratch**: 
     - El *block area* es el *script area*
     - En la parte inferior se encuentra el *stage* y los *backgrounds*
     - Los *sprites* son los personajes que se pueden utilizar en la aplicación.
     - Para ejecutar el código realizado se da click en la *bandera verde* **o** *se da docle click al comando*
+
+**Selection**: implica el uso de condiciones para controlar el flujo de un programa y tomar decisiones. Este se ejecuta solo si se cumple la condición. Además, es considerada con una de las principales construcciones de la programación.
+Se usa siempre que se necesita tomar una decisión, o cuando queremos agregar una ruta alternativa en el algoritmo.
+
+**If-Statement**: son una de las principales formas de expresar las condiciones e impementar la solución. -> hay variaw rutas de ejecución.
+
+**Pseudocódigo**: es una descripción de un algoritmo que utiliza lenguaje natural pero en una manera más estructurada. Esto se hace utilizando algunas construcciones y convenciones de programación.
+
+* Boolean: solo dos valores posibles: falso o verdadero.
+
+**Iteración:** es un proceso de repetición de secciones de un programa. Este se usa cuando se necesita repetir un comportamiento específico.
+
+    - *Bucles infinitos:* una sección de programas que se ejecutan una y otra vez, sin detenerse.
+        Repetido indefinidamente.
+        Comportamiento específico que este siempre presente.
