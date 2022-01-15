@@ -34,6 +34,6 @@ Se usa siempre que se necesita tomar una decisión, o cuando queremos agregar un
 
 **Iteración:** es un proceso de repetición de secciones de un programa. Este se usa cuando se necesita repetir un comportamiento específico.
 
-    - *Bucles infinitos:* una sección de programas que se ejecutan una y otra vez, sin detenerse.
-        Repetido indefinidamente.
-        Comportamiento específico que este siempre presente.
+*Bucles infinitos:* una sección de programas que se ejecutan una y otra vez, sin detenerse.
+    Repetido indefinidamente.
+    Comportamiento específico que este siempre presente.
