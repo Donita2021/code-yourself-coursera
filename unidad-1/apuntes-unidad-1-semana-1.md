@@ -37,3 +37,8 @@ Se usa siempre que se necesita tomar una decisión, o cuando queremos agregar un
 *Bucles infinitos:* una sección de programas que se ejecutan una y otra vez, sin detenerse.
     Repetido indefinidamente.
     Comportamiento específico que este siempre presente.
+
+Los ejercicios de esta semana en Scratch se realizaron en la versión online, a continuación los links de de cada uno:
+- Dinosaurios: https://scratch.mit.edu/projects/628735588
+- Globos: https://scratch.mit.edu/projects/628726601
+- Primer ejercicio: https://scratch.mit.edu/projects/627901835
