@@ -5,13 +5,13 @@
 a. Los **bucles controlados por cuenta** nos permiten repetir una sección de programa un número específico de veces.
 b. Los **bucles controlados por condición** nos permiten repetir una sección de programa hasta que se cumpla una condición o hasta que algo pase.
 
--*El bloque de espera* pausa la ejecución hasta la ejecución del script, hasta que se cumpla la condición especificada. Una vez satisfecha la condición, se reanuda la ejecución del script, lo que significa que el código que sigue a la espera hasta el bloque, comienza la ejecución. La condición dentro de un bloque de espera hasta-, es de tipo booleano... Al igual que la condición en un bloque *if then*, o una repetición hasta el bloque.
+-*El bloque de espera* pausa la ejecución del script, hasta que se cumpla la condición especificada. Una vez satisfecha la condición, se reanuda la ejecución del script, lo que significa que el código que sigue a la espera hasta el bloque, comienza la ejecución. La condición dentro de un bloque de espera hasta-, es de tipo booleano... Al igual que la condición en un bloque *if then*, o una repetición hasta el bloque.
 
 **Eventos:** son cosas que suceden, ocurrencias o acciones que tienen lugar. Son construcciones informáticas muy útiles, y nos ayudan a crear programas que reaccionan a las cosas que suceden.
 
 En la **programación basada en eventos**, el flujo del programa está determinado por eventos, como acciones del usuario o entradas del sensor. Un programa impulsado por eventos, está constantemente escuchando eventos, y cuando estos ocurren, se activa un comportamiento particular.
 
-**Software  Design** implica describir todos los aspectos del software que se va a construir, como la interfaz de usuario y la funcionalidad del software.
+**Diseño de Software** implica describir todos los aspectos del software que se va a construir, como la interfaz de usuario y la funcionalidad del software.
 
 La **interfaz del usuario** es el medio en el que el usuario interactua con o controla la aplicación de software. Estas son importantes ya que hacen fácil, más intuitivo y agradable el uso de las aplicaciones de software.
 
