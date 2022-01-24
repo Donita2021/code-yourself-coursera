@@ -24,7 +24,7 @@ La **interfaz del usuario** es el medio en el que el usuario interactua con o co
 - Diseñar un código también implica descomponer el juego en sus partes.
 
 **NOTA:** 
-- Los ejercicios **1**, **2**, **3**, **8** se realizaron en Scratch 2.0 Offline Editor. Intentaré agregarlos a la carpeta de esta unidad. 
+- Los ejercicios **1**, **2**, **3**, **8** se realizaron en Scratch 2.0 Offline Editor. Están guardados en la carpeta de esta unidad. 
 - El ejercicio **4** y **5** se realizó en la versión online, el comprobante de este ejercicio es el siguiente: https://scratch.mit.edu/projects/629758993   
 - El ejercicio **6** también se realizó en la versión online: https://scratch.mit.edu/projects/632788702 
 - El ejercicio **7** (juego de frutas) se encuentra en el siguiente link: https://scratch.mit.edu/projects/632794471
