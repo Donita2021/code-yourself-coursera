@@ -28,4 +28,5 @@ La **interfaz del usuario** es el medio en el que el usuario interactua con o co
 - El ejercicio **4** y **5** se realizó en la versión online, el comprobante de este ejercicio es el siguiente: https://scratch.mit.edu/projects/629758993   
 - El ejercicio **6** también se realizó en la versión online: https://scratch.mit.edu/projects/632788702 
 - El ejercicio **7** (juego de frutas) se encuentra en el siguiente link: https://scratch.mit.edu/projects/632794471
-- El ejercicio realizado el día 19 de enero en la clase con el tutor se encuentra en el siguiente link: https://scratch.mit.edu/projects/630925669
+- El ejercicio realizado el día 19 de enero en la clase con el tutor se encuentra en el siguiente link, este tuvo un pequeño cambio: https://scratch.mit.edu/projects/630925669
+- La tarea sobre realizar una figura geométrica con varias secciones se encuentra aquí: https://scratch.mit.edu/projects/633012026
