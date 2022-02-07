@@ -19,3 +19,5 @@ La **documentación del usuario** suele incluir tutoriales y manuales que guían
 
 Una **unión de bucle aninado (nested loop)** es un algoritmo ingenuo que une dos conjuntos mediante dos bucles aninados -un  bucle dentro de otro-. 
     Cuando un bucle está anidado dentro de otro bucle, el bulce interior se ejecuta muchas veces dentro del bucle exterior. En cada iteración del ciclo externo, se reinciará el ciclo interno.
+
+**Proyecto de Scratch:** https://scratch.mit.edu/projects/628735588
